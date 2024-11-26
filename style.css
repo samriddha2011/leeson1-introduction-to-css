@@ -1,0 +1,28 @@
+/*global css*/
+*{
+    font-size: medium;
+    font-weight: bolder;
+}
+/*external css*/
+h3{
+    color:azure
+}
+/*element selector*/
+h4{
+    color:red;
+}
+
+/*class selector*/
+.myclass{
+    color: burlywood;
+}
+
+/*id selecor*/
+#myid{
+    color: blue;
+}
+/*group selector*/
+
+h5,p{
+    color: brown;
+}
